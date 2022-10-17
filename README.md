@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Adam Van Hoesen, currently working in a dual role as a Systems and Software Engineer. I am a Full-Stack JavaScript developer but am working to expand into C++ and Python through some personal projects. Find out more about me at [AdamVanHoesen.com](https://AdamVanHoesen.com) & feel free to reach out via email.
+I am Adam Van Hoesen, currently working in a dual role as a Systems and Software Engineer. I am a Full-Stack JavaScript developer but am working to expand into C++ and Python through some personal projects. Find out more about me at [AdamVanHoesen.com](https://AdamVanHoesen.com) and feel free to reach out via email.
 
 ## ⚡ Technologies
 
